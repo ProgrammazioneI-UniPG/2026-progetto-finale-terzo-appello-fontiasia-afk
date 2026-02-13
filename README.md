@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Asia
 
-## Cognome: 
+## Cognome: Fonti
 
-## Matricola:
+## Matricola:397177
 
-## Commenti/modifiche al progetto:
+## Commenti/modifiche al progetto: Aggiunto personaggio speciale, Willber, nel momento del combattimento contro il demotorzone. Nella funzione combatti() in gamelib.c 
 
